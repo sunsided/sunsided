@@ -20,6 +20,8 @@ related to that. My background is in embedded systems, so I'm a sucker for safet
 <a href="https://medium.com/@sunside/has-recommended" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_Medium_1298751.png" alt="@sunside" height="64" width="64" /></a>
 </p>
 
+##
+
 <p align="center">
   I keep my :octocat: forks at <a href="https://github.com/widemeadows" alt="@widemeadows">@widemeadows</a> and collect :mortar_board: <a href="https://github.com/sunsided/certification">certificates</a> for fun (:grimacing:).
 </p>
