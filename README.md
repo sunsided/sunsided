@@ -23,5 +23,5 @@ related to that. My background is in embedded systems, so I'm a sucker for safet
 ##
 
 <p align="center">
-  I keep my :octocat: forks at <a href="https://github.com/widemeadows" alt="@widemeadows">@widemeadows</a> and collect :mortar_board: <a href="https://github.com/sunsided/certification">certificates</a> for fun (:grimacing:).
+  I keep my :octocat: forks at <a href="https://github.com/widemeadows" alt="@widemeadows">@widemeadows</a> and collect :mortar_board: <a href="https://github.com/sunsided/certification">certificates</a> for fun.
 </p>
