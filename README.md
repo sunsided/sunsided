@@ -15,9 +15,10 @@ related to that. My background is in embedded systems, so I'm a sucker for safet
 ## Find me elsewhere :computer:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/markus-mayer/" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_linkedin_287750.png" alt="markus-mayer" height="64" width="64" /></a>
-<a href="https://twitter.com/keybrot" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_Twitter-icon_380450.png" alt="keybrot" height="64" width="64" /></a>
-<a href="https://medium.com/@sunside/has-recommended" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_Medium_1298751.png" alt="@sunside" height="64" width="64" /></a>
+<a href="https://www.linkedin.com/in/markus-mayer/" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_linkedin_287750.png" alt="markus-mayer on LinkedIn" height="64" width="64" /></a>
+<a href="https://twitter.com/keybrot" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_Twitter-icon_380450.png" alt="@keybrot on Twitter" height="64" width="64" /></a>
+<a href="https://medium.com/@sunside/has-recommended" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_Medium_1298751.png" alt="@sunside on Medium" height="64" width="64" /></a>
+<a href="https://stackoverflow.com/users/195651/sunside" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_stackoverflow_7275419.png" alt="sunside on StackOverflow" height="64" width="64" /></a>
 </p>
 
 ##
