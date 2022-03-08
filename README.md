@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/puddle_jumper_octodex.png" height="160px" width="160px"></a>
-    <a href="https://octodex.github.com/labtocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/labtocat.png" height="160px" width="160px"></a>
-    <a href="https://octodex.github.com/inspectocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/inspectocat.png" height="160px" width="160px"></a>
-    <a href="https://octodex.github.com/Robotocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/robotocat.png" height="160px" width="160px"></a>
+    <a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/puddle_jumper_octodex.png" height="128px" width="128px"></a>
+    <a href="https://octodex.github.com/labtocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/labtocat.png" height="128px" width="128px"></a>
+    <a href="https://octodex.github.com/inspectocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/inspectocat.png" height="128px" width="128px"></a>
+    <a href="https://octodex.github.com/Robotocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/robotocat.png" height="128px" width="128px"></a>
 </p>
 
 ## Hey there :wave:
@@ -12,7 +12,7 @@ and anything that breathes some life into algorithmic and robotic beings,
 and I'm regularly spamming out repos and code about everything that's remotely
 related to that. My background is in embedded systems, so I'm a sucker for safety and raw performance and also believe that warnings _are_ errors.
 
-##
+###
 
 <p align="center">
     I keep my :octocat: forks at <a href="https://github.com/widemeadows" alt="@widemeadows">@widemeadows</a> and collect :mortar_board: <a href="https://github.com/sunsided/certification">certificates</a> for fun.
