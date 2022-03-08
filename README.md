@@ -31,3 +31,8 @@ related to that. My background is in embedded systems, so I'm a sucker for safet
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=sunsided&row=1&no-bg=true&no-frame=true&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy" alt="sunsided's github trophy" />
 </p>
+
+<p align="center">
+  <a href="https://wakatime.com/@1157f57c-ff4d-47c6-a181-01c8f66732ed"><img align="center" src="https://wakatime.com/badge/user/1157f57c-ff4d-47c6-a181-01c8f66732ed.svg" alt="wakatime"/></a>
+  <img align="center" src="https://komarev.com/ghpvc/?username=sunsided" alt="Profile view count" />
+</p>
