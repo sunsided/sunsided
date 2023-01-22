@@ -7,7 +7,7 @@
 
 ## Hey there :wave:
 
-Hi! I'm Markus, a tech lead and engineering manager at [@nyris](https://github.com/nyris) working out of Berlin and Düsseldorf. I enjoy working with autonomous systems
+Hi! I'm Markus, a tech lead and engineering manager at [@nyris](https://github.com/nyris) working out of Berlin. I enjoy working with autonomous systems
 and anything that breathes some life into algorithmic and robotic beings,
 and I'm regularly spamming out repos and code about everything that's remotely
 related to that. My background is in embedded systems, so I'm a sucker for safety and raw performance and also believe that warnings _are_ errors. 
