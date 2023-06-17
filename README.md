@@ -16,8 +16,14 @@ These days, I mostly type in Rust and C#. You can find my recent Rust projects [
 ###
 
 <p align="center">
-    I keep my :octocat: forks at <a href="https://github.com/widemeadows" alt="@widemeadows">@widemeadows</a> and collect :mortar_board: <a href="https://github.com/sunsided/certification">certificates</a> for fun.
+    I keep my :octocat: forks at <a href="https://github.com/widemeadows" alt="@widemeadows">@widemeadows</a> and collect :mortar_board: <a href="https://github.com/sunsided/certification">certificates</a> for fun.<br />
+    <a href="https://github.com/sunsided?tab=repositories&q=%23rust&type=&language=&sort=stargazers">#rust</a> ·
+    <a href="https://github.com/sunsided?tab=repositories&q=%23embedded&type=&language=&sort=stargazers">#embedded</a> ·
+    <a href="https://github.com/sunsided?tab=repositories&q=%23artificial-intelligence&type=&language=&sort=stargazers">#artificial-intelligence</a> ·
+    <a href="https://github.com/sunsided?tab=repositories&q=%23signal-processing&type=&language=&sort=stargazers">#signal-processing</a> ·
+    <a href="https://github.com/sunsided?tab=repositories&q=%23image-processing&type=&language=&sort=stargazers">#image-processing</a>
 </p>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/markus-mayer/" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/iconfinder_linkedin_287750.png" alt="markus-mayer on LinkedIn" height="32" width="32" /></a>
