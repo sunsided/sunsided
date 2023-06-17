@@ -11,7 +11,7 @@ Hi! I'm Markus, a tech lead and engineering manager at [@nyris](https://github.c
 and anything that breathes some life into algorithmic and robotic beings,
 and I'm regularly spamming out repos and code about everything that's remotely
 related to that. My background is in embedded systems, so I'm a sucker for safety and raw performance and also believe that warnings _are_ errors. 
-These days, I mostly type in Rust and C#.
+These days, I mostly type in Rust and C#. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads).
 
 ###
 
