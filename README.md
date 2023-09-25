@@ -20,7 +20,7 @@ Around 1997 I focused on Visual Basic 5 and Turbo C++ 3 / Borland C++ 5, only to
 In the years to come I ventured into WordPress development in PHP and became an active plugin developer however my interest would soon and dramatically shift towards C# - and this is where I found my home for twenty years.
 I incorporated artificial intelligence in all its shapes as well as data analytics into my toolbox and have been operating at the intersection of these topics for decades now, applying it in the fields of robotics, FinTech, MedTech and DeepTech.
 
-With a fair bit of exploration into virtually all other areas of coding and engineering, I'm now considered programming hyperpolyglot by [CoderStats](https://coderstats.github.io/github/#sunsided) - however these days, I mostly type in Rust and C#. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads).
+With a fair bit of exploration into virtually all areas of coding, engineering and DevOps, I'm now considered programming hyperpolyglot by [CoderStats](https://coderstats.github.io/github/#sunsided) - however these days, I mostly type in Rust and C#. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads).
 
 ###
 
