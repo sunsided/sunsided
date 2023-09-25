@@ -15,14 +15,8 @@ related to that. My background is in embedded systems, so I'm a sucker for safet
 At the core of it all, I believe in servant leadership and value inclusivity, diversity, experiment driven approaches and a positive error culture. 
 Since 2017 I give my best to live these values on the daily; it has continued to be a transformative journey and a journey I would not want to miss ever again.
 
-My programming journey began at the age of six on the C64 and got more serious around 1994 with a mix of Visual Basic 3, Borland C++ 3.1, Delphi 2 and later Visual Studio 6. 
-Around 1997 I focused on Visual Basic 5 and Turbo C++ 3 / Borland C++ 5, only to go back to Visual Basic 6 in 1999 to write network utilities and cryptography tools. Around 2000 I began focussing on physics and particle simulations as well as 3D technologies, ranging from 3D Studio, Cinema4D and Maya to low-level engine programming for 2D and Direct3D/DirectX in the then-new Visual C++ .NET; I wrote my first games here, now thankfully lost to time.
-In the years to come I ventured into WordPress development in PHP and became an active plugin developer however my interest would soon and dramatically shift towards C# - and this is where I found my home for twenty years.
-I incorporated artificial intelligence in all its shapes as well as data analytics into my toolbox and have been operating at the intersection of these topics for decades now, applying it in the fields of robotics, FinTech, MedTech and DeepTech.
 
-With a fair bit of exploration into virtually all areas of coding, engineering and DevOps, I'm now considered programming hyperpolyglot by [CoderStats](https://coderstats.github.io/github/#sunsided) - however these days, I mostly type in Rust and C#. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads).
-
-###
+##
 
 <p align="center">
     I keep my :octocat: forks at <a href="https://github.com/widemeadows" alt="@widemeadows">@widemeadows</a> and collect :mortar_board: <a href="https://github.com/sunsided/certification">certificates</a> for fun.<br />
@@ -48,3 +42,12 @@ With a fair bit of exploration into virtually all areas of coding, engineering a
     <!-- :) hey there, thanks for looking -->
     <img src="https://komarev.com/ghpvc/?username=sunsided" alt="Profile view count" height="0" width="0" />
 </p>
+
+###
+
+My programming journey began at the age of six on the C64 and got more serious around 1994 with a mix of Visual Basic 3, Borland C++ 3.1, Delphi 2 and later Visual Studio 6. 
+Around 1997 I focused on Visual Basic 5 and Turbo C++ 3 / Borland C++ 5, only to go back to Visual Basic 6 in 1999 to write network utilities and cryptography tools. Around 2000 I began focussing on physics and particle simulations as well as 3D technologies, ranging from 3D Studio, Cinema4D and Maya to low-level engine programming for 2D and Direct3D/DirectX in the then-new Visual C++ .NET; I wrote my first games here, now thankfully lost to time.
+In the years to come I ventured into WordPress development in PHP and became an active plugin developer however my interest would soon and dramatically shift towards C# - and this is where I found my home for twenty years.
+I incorporated artificial intelligence in all its shapes as well as data analytics into my toolbox and have been operating at the intersection of these topics for decades now, applying it in the fields of robotics, FinTech, MedTech and DeepTech.
+
+With a fair bit of exploration into virtually all areas of coding, engineering and DevOps, I'm now considered programming hyperpolyglot by [CoderStats](https://coderstats.github.io/github/#sunsided) - however these days, I mostly type in Rust and C#. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads).
