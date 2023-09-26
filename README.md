@@ -40,7 +40,6 @@ With a fair bit of exploration into virtually all areas of coding, engineering a
 ##
 
 <p align="center"> 
-<img src="https://metrics.lecoq.io/sunsided" />
 <!-- :) hey there, thanks for looking -->
 <img src="https://komarev.com/ghpvc/?username=sunsided" alt="Profile view count" height="0" width="0" />
 </p>
