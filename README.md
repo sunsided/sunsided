@@ -37,9 +37,12 @@ With a fair bit of exploration into virtually all areas of coding, engineering a
     <a href="https://linktr.ee/sunsided" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/icons8-linktree-48.png" alt="sunsided on Linktree" height="32" width="32" /></a>
 </p>
 
+##
+
 <p align="center"> 
-    <!-- :) hey there, thanks for looking -->
-    <img src="https://komarev.com/ghpvc/?username=sunsided" alt="Profile view count" height="0" width="0" />
+<img src="https://metrics.lecoq.io/sunsided" />
+<!-- :) hey there, thanks for looking -->
+<img src="https://komarev.com/ghpvc/?username=sunsided" alt="Profile view count" height="0" width="0" />
 </p>
 
 <!--
