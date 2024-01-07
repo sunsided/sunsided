@@ -15,7 +15,7 @@ related to that. My background is in embedded systems, so I'm a sucker for safet
 At the core of it all, I believe in servant leadership and value inclusivity, diversity, experiment driven approaches and a positive error culture. 
 Since 2017 I give my best to live these values on the daily; it has continued to be a transformative journey and a journey I would not want to miss ever again.
 
-With a fair bit of exploration into virtually all areas of coding, engineering and DevOps, I have touched most relevant programming languages of the last 20 years - however these days, I mostly type in Rust and C#. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads). You can check my coding stats [here](https://github.com/sunsided/coding-stats) in the linked Gist.
+With a fair bit of exploration into virtually all areas of coding, engineering and DevOps, I have touched most relevant programming languages of the last 20 years - however these days, I mostly type in Rust. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads). You can check my coding stats [here](https://github.com/sunsided/coding-stats) in the linked Gist.
 
 ##
 
