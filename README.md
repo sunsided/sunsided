@@ -1,8 +1,5 @@
 <p align="center">
-    <a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/puddle_jumper_octodex.png" height="128px" width="128px"></a>
-    <a href="https://octodex.github.com/labtocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/labtocat.png" height="128px" width="128px"></a>
-    <a href="https://octodex.github.com/inspectocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/inspectocat.png" height="128px" width="128px"></a>
-    <a href="https://octodex.github.com/Robotocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/robotocat.png" height="128px" width="128px"></a>
+    <img src="https://github.com/sunsided/sunsided/raw/master/.readme/profile.jpeg" />
 </p>
 
 ## Hey there :wave:
@@ -16,6 +13,15 @@ At the core of it all, I believe in servant leadership and value inclusivity, di
 Since 2017 I give my best to live these values on the daily; it has continued to be a transformative journey and a journey I would not want to miss ever again.
 
 With a fair bit of exploration into virtually all areas of coding, engineering and DevOps, I have touched most relevant programming languages of the last 20 years - however these days, I mostly type in Rust. You can find my recent Rust projects [here on GitHub](https://github.com/sunsided?tab=repositories&q=&type=&language=rust&sort=stargazers) and [crates.io](https://crates.io/users/sunsided?sort=downloads). You can check my coding stats [here](https://github.com/sunsided/coding-stats) in the linked Gist.
+
+
+<p align="center">
+    <a href="https://octodex.github.com/umbrellatocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/puddle_jumper_octodex.png" height="128px" width="128px"></a>
+    <a href="https://octodex.github.com/labtocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/labtocat.png" height="128px" width="128px"></a>
+    <a href="https://octodex.github.com/inspectocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/inspectocat.png" height="128px" width="128px"></a>
+    <a href="https://octodex.github.com/Robotocat/"><img src="https://github.com/sunsided/sunsided/raw/master/.readme/robotocat.png" height="128px" width="128px"></a>
+</p>
+
 
 ##
 
