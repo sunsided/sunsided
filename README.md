@@ -46,7 +46,7 @@ With a fair bit of exploration into virtually all areas of coding, engineering, 
 ##
 
 <p align="center"> 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=sunsided&row=2&no-bg=true&no-frame=true" alt="sunsided's github trophy" />
+<img align="center" src="https://github-profile-trophy-tawny.vercel.app/?username=sunsided&row=2&no-bg=true&no-frame=true" alt="sunsided's github trophy" />
 </p>
 
 <!--
