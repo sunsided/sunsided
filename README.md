@@ -43,13 +43,14 @@ With a fair bit of exploration into virtually all areas of coding, engineering, 
     <a href="https://linktr.ee/sunsided" target="blank"><img align="center" src="https://github.com/sunsided/sunsided/raw/master/.readme/icons/icons8-linktree-48.png" alt="sunsided on Linktree" height="32" width="32" /></a>
 </p>
 
+
+<!--
 ##
 
 <p align="center"> 
-<img align="center" src="https://github-profile-trophy-tawny.vercel.app/?username=sunsided&row=2&no-bg=true&no-frame=true" alt="sunsided's github trophy" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=sunsided&row=2&no-bg=true&no-frame=true" alt="sunsided's github trophy" />
 </p>
 
-<!--
 
 My programming journey began at the age of six on the C64 and got more serious around 1994 with a mix of Visual Basic 3, Borland C++ 3.1, Delphi 2 and later Visual Studio 6. 
 Around 1997 I focused on Visual Basic 5 and Turbo C++ 3 / Borland C++ 5, only to go back to Visual Basic 6 in 1999 to write network utilities and cryptography tools. Around 2000 I began focussing on physics and particle simulations as well as 3D technologies, ranging from 3D Studio, Cinema4D and Maya to low-level engine programming for 2D and Direct3D/DirectX in the then-new Visual C++ .NET; I wrote my first games here, now thankfully lost to time.
