@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/sunsided/sunsided/raw/master/.readme/profile.jpeg" />
+    <img src="https://github.com/sunsided/sunsided/raw/main/.readme/profile.jpeg" />
 </p>
 
 ## Hey there :wave:
